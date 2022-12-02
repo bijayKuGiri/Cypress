@@ -1,0 +1,4 @@
+{
+    "baseUrl":"https://portal-staging.intrivo.com",
+    "testFiles": "**/*.feature"
+}
